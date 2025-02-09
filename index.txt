@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Ruchan Kayastha - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Ruchan Kayastha
+Ruchan Kayastha
+App developer
 
 Show Contacts
 
 Email
-richard@example.com
+ruchan101010@gmail.com
 
 Phone
-+1 (213) 352-2795
++977 9805853743
 
 Birthday
-June 23, 1982
+August 18, 2002
 
 Location
-Sacramento, California, USA
+Gongobu, Kathmandu, Nepal
 
 # navbar
 

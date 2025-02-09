@@ -1,0 +1,30 @@
+name: Deploy Portfolio to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest 
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2 
+
+      - name: Setup Node.js (if needed)
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'  
+
+      - name: Build your website (optional)
+        run: |
+          echo "Building project..."  
+          
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages  
+          folder: .  
+          token: ${{ secrets.GITHUB_TOKEN }}  
