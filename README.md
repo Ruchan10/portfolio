@@ -1,17 +1,8 @@
-# vCard - Personal portfolio
+# Ruchan Kayastha - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+This is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
-
-## Demo
-
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## [Live] (https://ruchan10.github.io/portfolio/)
 
 ## Prerequisites
 
@@ -19,26 +10,28 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+## Installing 
 
-To install **vCard**, follow these steps:
+To install and try this project, follow these steps:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://github.com/Ruchan10/portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/Ruchan10/portfolio.git
 ```
 
-## Contact
+## Features
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+* Fully responsive design
+* Smooth animations and transitions
+* Projects showcase with live links
+* Contact form with email integration
+* Blog section (if applicable)
 
-## License
-
-MIT
+## This project is a direct fork of [vCard] (https://github.com/codewithsadee/vcard-personal-portfolio)
